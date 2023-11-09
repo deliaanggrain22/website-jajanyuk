@@ -1,0 +1,25 @@
+#main-menu {
+	 background-image: url("../foto/hijau2.jpg");
+}
+
+#page-inner{
+	background-image: url("../foto/bg.png");
+}
+
+#judul	{
+	background-image: url("../foto/foto.jpg");
+}
+
+#atas {
+	 background-image: url("../foto/foto.jpg");
+}
+
+#logout {
+	 background-image: url("../foto/peach.png");
+}
+
+h2	{
+	 text-decoration: bold;
+	 font-family: "georgia", times, serif;
+	 color: #006400;
+}

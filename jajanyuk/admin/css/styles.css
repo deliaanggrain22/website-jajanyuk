@@ -1,0 +1,9 @@
+#page-inner{
+	background-image: url("../foto/bg.png");
+}
+
+h2	{
+	 text-decoration: bold;
+	 font-family: "georgia", times, serif;
+	 color: #006400;
+}
